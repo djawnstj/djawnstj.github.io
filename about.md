@@ -4,7 +4,7 @@ permalink: /about/
 ---
 
 
-![스크린샷 2022-08-29 22.46.46.png](/assets/images/about_profile_image.jpg)
+![스크린샷 2022-08-29 22.46.46.png](assets/images/about_profile_image.jpg)
 
 ### **Contracts**
 
